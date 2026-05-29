@@ -109,7 +109,7 @@ export default defineConfig(async () => {
     },
   },
   // For GitHub Pages deployment
-  base: '/Financial-Dashboard/',
+  base: '/',
   // Optimize dependencies
   optimizeDeps: {
     include: [
